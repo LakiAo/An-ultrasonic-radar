@@ -17,7 +17,8 @@ SSD1306: https://blog.csdn.net/finedayforu/article/details/108769900
   周五准备大干一场后电脑无故黑屏，无法开机送去售后检测有问题，无奈之下只好借同学电脑重新搞代码下载arduino，下载库……（暗影精灵9通病 真的很难受）  
   后来在折腾了一天后重新讲分开来的代码打包  
 ![image](https://github.com/LakiAo/An-ultrasonic-radar/assets/42827331/05d25e99-6306-4ac3-a1b5-43e0b63579c8)  
-![image](https://github.com/LakiAo/An-ultrasonic-radar/assets/42827331/56a966a4-8203-44d7-8b7f-b6ea5e8ededf)  
+![image](https://github.com/LakiAo/An-ultrasonic-radar/assets/42827331/dfa22d7c-3899-4570-84f1-9c1972433289)  
+
 
   制作期间被朋友吐槽线太乱，不如他的nano用面包板整洁，这个后续一定改正。  
   随后是对代码进行整合，这个项目困难的地方就是如何将点在屏幕上正确的表示出来，让人们能够看得出来你所做的是个雷达。这里用到了两个量，分别是angle和cm，分别通过三角函数计算出应该在屏幕上显示的坐标以达到在屏幕上精确显示位置的效果。  
